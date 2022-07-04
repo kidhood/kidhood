@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nguyễn Văn Thống. Kidhood is my nick name.
-- 👀 I’m interested in read light novel
+- 👀 I’m interested in light novel
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 My facebook link: https://www.facebook.com/vanthong07
