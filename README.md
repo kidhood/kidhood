@@ -1,8 +1,12 @@
-[![MasterHead](https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif)](https://github.com/kidhood)
+<img align="center" width="100%" src="https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif" style="pointer-events: none;" />
+
+[![MasterHead](https://i.ibb.co/YZ79Hy5/Untitled-design-3.gif)](https://github.com/kidhood)
+
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Thống</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
-<img align="right" alt="Coding"  width="400"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
-
+<p align="center">
+<img align="right" alt="Coding"   width="400" style="pointer-events: none;" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+</p>
 - 🔭 I’m currently working on [Bird Trading Platform](https://github.com/kidhood/bird-trading-platform-backend)
 
 - 🌱 I’m currently learning **C#, Spring Boot**
