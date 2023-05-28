@@ -1,6 +1,4 @@
-<img align="center" width="100%" src="https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif"/>
-
-
+<img align="center" width="100%" src="https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif" target="#"/>
 
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Thống</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
