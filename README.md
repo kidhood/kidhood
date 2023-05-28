@@ -1,4 +1,6 @@
+<a href="https://github.com/kidhood" target="#">
 <img align="center" width="100%" src="https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif" style="pointer-events: none;" />
+</a>
 
 [![MasterHead](https://i.ibb.co/YZ79Hy5/Untitled-design-3.gif)](https://github.com/kidhood)
 
