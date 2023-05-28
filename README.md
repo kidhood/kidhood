@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgzZDQ5NmQ5ZTNkZjU1ZTJmODE3YzRlNjA1NGJlNDBiNDhmYzM1MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/MF8Oas9doLK6egtlb6/giphy.gif"/>
+<img align="center" width="100%" src="https://media.giphy.com/media/MF8Oas9doLK6egtlb6/giphy.gif"/>
 <h1 align="center">Hi 👋, I'm Nguyễn Văn Thống</h1>
 <h3 align="center">A passionate backend developer from Viet Nam</h3>
 <img align="right" alt="Coding"  width="400"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
