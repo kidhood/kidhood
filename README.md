@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Bird Trading Platform](https://github.com/kidhood/bird-trading-platform-backend)
 
-- 🌱 I’m currently learning **C#, Spring Boot, AWS ...**
+- 🌱 I’m currently learning **C#, Spring Boot, AWS...**
 
 - 📫 How to reach me **vanthong07012002@gmail.com**
 
