@@ -17,9 +17,9 @@
 - 📫 How to reach me **vanthong07012002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kidhood/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kidhood-blue?style=flat&logo=linkedin"></a>
-</p>
+[![](https://img.shields.io/badge/Email-quangky.it@gmail.com-blue?style=flat-square&logo=gmail)](mailto:vanthong07012002@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-linkedin.com/in/kidhood-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kidhood/)
+
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming Languages: </h4>
 <p align="left"> 
