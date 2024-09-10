@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Dotnet, C#, Spring Boot, AWS...**
 
-- 📫 How to reach me **vanthong07012002@gmail.com**
+- 📫 How to reach me **thongnv701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
